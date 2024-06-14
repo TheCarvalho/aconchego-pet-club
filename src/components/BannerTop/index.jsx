@@ -5,7 +5,7 @@ export const BannerTop = () => {
   return (
     <div className={`container ${Styles.bannerTopo}`}>
       <div className={Styles.containerNomeLogo}>
-        <a href="/">
+        <a href="/aconchego-pet-club">
           <p className={Styles.nomePetShop}>
             <img src={LogoPatas} alt="Logo Pet Shop" />
             Pet Club Aconchego
