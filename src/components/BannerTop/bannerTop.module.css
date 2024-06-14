@@ -1,0 +1,66 @@
+.bannerTopo {
+  background-image: url("./bannertop.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.containerNomeLogo {
+  margin: 0 auto;
+  max-width: 400px;
+  color: var(--main-color);
+  text-align: center;
+}
+.containerNomeLogo a {
+  color: var(--main-color);
+}
+.containerNomeLogo img {
+  width: 50px;
+  margin-right: 5px;
+}
+.containerNomeLogo .nomePetShop {
+  font-size: 3.75rem;
+  margin: 0 0 5px 0;
+}
+.containerNomeLogo .sloganPetShop {
+  font-size: 0.875rem;
+  font-style: italic;
+  margin: 0;
+}
+.containerTituloTopo {
+  max-width: 1024px;
+  border-radius: 10px;
+  padding: 40px;
+  margin: 70px auto 0;
+  background: #ffffffc4;
+  box-shadow: 0 8px 32px #1f26875e;
+
+  display: flex;
+  flex-direction: column;
+}
+.tituloTopo {
+  font-size: 4vw;
+  color: var(--main-color);
+  text-align: center;
+  font-weight: 800;
+  margin: 0 0 40px;
+}
+
+
+
+
+
+.linkFaleConosco {
+  padding: 10px 25px;
+  font-size: 1.25rem;
+  background-color: var(--main-color);
+  border-radius: 10px;
+  margin: 0 auto;
+  color: var(--white-color); 
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.linkFaleConosco:active{
+  background-color: var(--secondary-color);
+}
