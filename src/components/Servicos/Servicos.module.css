@@ -1,0 +1,23 @@
+
+.boxServicos {
+  max-width: 800px;
+  color: var(--main-color);
+  margin: 0 auto 50px;
+}
+.boxServicos li {
+  font-size: 20px;
+  margin: 0 0 20px;
+}
+.boxServicosImg {
+  max-width: 800px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 10px;
+}
+.boxServicosImg img {
+  flex: 1 1 auto;
+  box-shadow: 3px 6px 10px 6px #0000005c;
+  border-radius: 5px;
+}

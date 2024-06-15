@@ -1,6 +1,6 @@
 import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 import Styles from "./bannerTop.module.css";
-import LogoPatas from "./patas.png";
+import LogoPatas from "./patas.png"
 export const BannerTop = () => {
   return (
     <div className={Styles.bannerTopo}>

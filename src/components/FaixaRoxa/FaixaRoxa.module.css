@@ -1,0 +1,21 @@
+
+.faixa {
+  background-color: var(--main-color);
+  text-align: center;
+}
+.textFaixa {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  color: #fff;
+  font-size: 40px;
+}
+.redesSociais a {
+  margin: 0 20px;
+}
+.redesSociais img {
+  width: 50px;
+  height: 50px;
+}
+.icones{
+  color: white;
+}

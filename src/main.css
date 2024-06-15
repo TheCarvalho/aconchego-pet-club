@@ -1,5 +1,5 @@
 :root {
-  --main-color: #3c184e;
+  --main-color: #855726;
   --secondary-color: #110616;
   --white-color: #fff;
 }
@@ -25,4 +25,7 @@ h3 {
   color: var(--main-color);
   text-align: center;
   margin: 0 0 45px;
+}
+.padding{
+  padding: 120px 80px;
 }
